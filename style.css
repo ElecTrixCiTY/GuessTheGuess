@@ -118,3 +118,18 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+@media screen and (max-width:650px) {
+    header{
+      position:relative;
+      height: 41vh;
+      border: 5px solid #eee;
+    }
+    .btn{
+      font-size: 1.8rem;
+      padding: 1.8rem 2.6rem;
+    }
+    .guess{
+      width: 20rem;
+      padding: 2rem;
+    }
+}
