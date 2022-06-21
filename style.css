@@ -122,13 +122,13 @@ h1 {
     header{
       position:relative;
       height: 40vh;
-      border: 5px solid #eee;
+/* border: 5px solid #eee; */
     }
     .main{
       height: 60vh;
        align-items: center;
       justify-content: space-between;
-/*       justify-content: space-around; */
+/* justify-content: space-around; */
     }
     .btn{
       font-size: 1.2rem;
@@ -150,8 +150,10 @@ h1 {
     }
     .left{
       width: 40rem;
+      margin-left:2rem;
     }
     .right{
+      margin-left:5rem;
       width: 55rem;
     }
     .between{
