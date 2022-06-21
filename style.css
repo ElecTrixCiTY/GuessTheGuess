@@ -133,7 +133,8 @@ h1 {
     }
     .guess{
       width: 15rem;
-      padding: 1rem;
+      padding: 0rem;
+      font-size: 5rem;
     }
     h1{
       font-size: 2rem;
@@ -156,6 +157,6 @@ h1 {
       font-size: 1rem;
     }
     .label-highscore,.message,.label-score{
-      font-size: 0.7rem;
+      font-size: 0.6rem;
     }
 }
