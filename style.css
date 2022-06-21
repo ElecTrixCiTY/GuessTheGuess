@@ -146,4 +146,10 @@ h1 {
     .right{
       width: 50rem;
     }
+  .between{
+      font-size: 0.6rem;
+    }
+    .again{
+      font-size: 1rem;
+    }
 }
