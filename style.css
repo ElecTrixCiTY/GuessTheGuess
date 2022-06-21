@@ -135,9 +135,10 @@ h1 {
       padding: 1.8rem 2.6rem;
     }
     .guess{
-      width: 15rem;
+       width: 15rem;
+      height: 5rem;
       padding: 0rem;
-      font-size: 5rem;
+      font-size: 2rem;
     }
     h1{
       font-size: 2rem;
