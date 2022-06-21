@@ -126,6 +126,9 @@ h1 {
     }
     .main{
       height: 60vh;
+       align-items: center;
+      /* justify-content: space-between; */
+      justify-content: space-around;
     }
     .btn{
       font-size: 1.2rem;
