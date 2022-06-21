@@ -140,4 +140,10 @@ h1 {
       width: 8rem;
       padding: 2rem;
     }
+    .left{
+      width: 45rem;
+    }
+    .right{
+      width: 50rem;
+    }
 }
