@@ -121,8 +121,11 @@ h1 {
 @media screen and (max-width:650px) {
     header{
       position:relative;
-      height: 41vh;
+      height: 40vh;
       border: 5px solid #eee;
+    }
+    .main{
+      height: 60vh;
     }
     .btn{
       font-size: 1.2rem;
@@ -141,15 +144,18 @@ h1 {
       padding: 2rem;
     }
     .left{
-      width: 45rem;
+      width: 40rem;
     }
     .right{
-      width: 50rem;
+      width: 55rem;
     }
-  .between{
+    .between{
       font-size: 0.6rem;
     }
     .again{
       font-size: 1rem;
+    }
+    .label-highscore,.message,.label-score{
+      font-size: 0.7rem;
     }
 }
